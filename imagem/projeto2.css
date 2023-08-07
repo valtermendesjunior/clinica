@@ -1,0 +1,37 @@
+
+
+h1{
+    font-size:20px ;
+    margin: 0;
+    padding-left:12 ;
+    text-align: right;
+
+}
+#cabecalho{
+    background-color:#0000ff;
+    color: aliceblue;
+}
+#informacoes
+
+{
+background-color:#0000ff;
+color: aliceblue;
+text-align: center;
+
+}
+a
+{
+    margin: 10px;
+    font-size: 20;
+
+}
+h1{
+    padding: 24px;
+
+}
+#imagens
+{
+    text-align: center;
+    width: 50%;
+}
+
